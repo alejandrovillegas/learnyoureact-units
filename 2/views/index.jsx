@@ -15,7 +15,7 @@
     var TodoList = React.createClass({
       // Write code here
       render: function {
-        return (<div class = "todoList">
+        return (<div className = "todoList">
           I am a TodoList.
         </div>)
       }
@@ -25,7 +25,7 @@
       // Write code here
       render: function{
         return(
-          <div class = "todoForm">
+          <div className = "todoForm">
             I am a TodoForm.
           </div>
           )
